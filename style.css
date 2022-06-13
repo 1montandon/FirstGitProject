@@ -1,5 +1,13 @@
 h1{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: white;
+    color: rgb(0, 0, 0);
     text-shadow: 2px 2px blueviolet;
+}
+header{
+    align-items: center;
+    text-align: center;
+}
+.container {
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
 }
